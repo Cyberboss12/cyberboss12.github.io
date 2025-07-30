@@ -1,3 +1,3 @@
 # h1 Heading
 ## h2 heading
-<a href="https://cyberboss12.github.io/clothing">Bezoek de website</a>
+<a href="https://cyberboss12.github.io/clothing">Bezoek onze collecties!</a>
